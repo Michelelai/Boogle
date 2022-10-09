@@ -1,0 +1,76 @@
+.boogle_logo{
+    height: 5vh;
+    width: 15vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.one_account{
+    font-family: arial;
+    color: #6a6a6a;
+    font-size: 30px;
+    text-align: center;
+}
+
+.sign_in{
+    font-family: arial;
+    color: #6a6a6a;
+    font-size: 15px;
+    text-align: center;
+}
+.square{
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: LightGray;
+    text-align: center;
+}
+
+.enter_email{
+    background-color: #FCF3CF;
+    border: 5px;
+    border-color: Gray;
+}
+
+.next{
+    height: 20px;
+    width: 180px;
+    background-color: #1a73e8;
+    border: 0px;
+    color: white;
+}
+
+.need_help{
+    font-family: arial;
+    font-size: 12px;
+    color: #0763e5;
+    margin-left: 120px;
+    margin-bottom: 100px;
+    text-decoration: none;
+}
+
+.create_account{
+    font-family: arial;
+    font-size: 14px;
+    color: #0763e5;
+    text-align: center;
+}
+
+.one_boogle_account{
+    font-family: arial;
+    font-size: 14px;
+    color: #6a6a6a;
+    text-align: center;
+}
+
+.links{
+    margin: auto;
+    width: 12%;
+}
+
+.footer{
+    display: flex;
+    font-family: arial;
+    justify-content: space-between;
+}
